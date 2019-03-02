@@ -1,4 +1,6 @@
 # Candu JS Client
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcandulabs%2Fjs-eventing.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcandulabs%2Fjs-eventing?ref=badge_shield)
+
 
 Best in-app learning experience.
 
@@ -66,3 +68,7 @@ The function `track` takes the following parameters:
     </td>
   </tr>
 </table>
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcandulabs%2Fjs-eventing.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcandulabs%2Fjs-eventing?ref=badge_large)
