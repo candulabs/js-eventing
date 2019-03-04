@@ -38,7 +38,7 @@ export default (clientToken, userId, url) => {
           source: EVENT_SOURCES.Player,
           eventName: playerAction,
           // we rewrite here because learning script comes with additional properties we don't want to send over the wire
-          learningScript: {
+          learningScript: learningScript && {
             learningObjectiveId: learningScript.learningObjectiveId,
             learningObjectiveVersionId: learningScript.learningObjectiveVersionId,
             learningMaterialId: learningScript.learningMaterialId,
